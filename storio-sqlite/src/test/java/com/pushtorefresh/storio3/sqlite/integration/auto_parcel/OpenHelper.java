@@ -3,7 +3,7 @@ package com.pushtorefresh.storio3.sqlite.integration.auto_parcel;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 class OpenHelper extends SQLiteOpenHelper {
 

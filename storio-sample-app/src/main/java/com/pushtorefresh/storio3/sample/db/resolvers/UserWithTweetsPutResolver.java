@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sample.db.resolvers;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sample.db.entities.UserWithTweets;
 import com.pushtorefresh.storio3.sample.db.tables.TweetsTable;

@@ -1,9 +1,9 @@
 package com.pushtorefresh.storio3.operations;
 
-import android.support.annotation.CheckResult;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.CheckResult;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.annotation.WorkerThread;
 
 import io.reactivex.BackpressureStrategy;
 import io.reactivex.Flowable;

@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.contentresolver;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.internal.TypeMapping;
 import com.pushtorefresh.storio3.contentresolver.operations.delete.DeleteResolver;

@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.sqlite.design;
 
 import android.content.ContentValues;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sqlite.operations.put.DefaultPutResolver;
 import com.pushtorefresh.storio3.sqlite.operations.put.PutResolver;

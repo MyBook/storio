@@ -2,7 +2,7 @@ package com.pushtorefresh.storio3.contentresolver.integration;
 
 import android.content.ContentResolver;
 import android.content.pm.ProviderInfo;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.contentresolver.ContentResolverTypeMapping;
 import com.pushtorefresh.storio3.contentresolver.StorIOContentResolver;

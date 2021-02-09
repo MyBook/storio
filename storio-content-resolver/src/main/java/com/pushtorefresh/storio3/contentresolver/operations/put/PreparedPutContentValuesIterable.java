@@ -1,8 +1,8 @@
 package com.pushtorefresh.storio3.contentresolver.operations.put;
 
 import android.content.ContentValues;
-import android.support.annotation.CheckResult;
-import android.support.annotation.NonNull;
+import androidx.annotation.CheckResult;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.Interceptor;
 import com.pushtorefresh.storio3.StorIOException;

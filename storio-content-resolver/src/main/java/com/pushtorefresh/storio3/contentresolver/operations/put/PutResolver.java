@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.contentresolver.operations.put;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.contentresolver.StorIOContentResolver;
 

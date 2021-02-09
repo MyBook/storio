@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sample.db.tables;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 // We suggest to store table meta such as table name, columns names, queries, etc in separate class
 // Because it makes code of the Entity itself cleaner and easier to read/understand/support

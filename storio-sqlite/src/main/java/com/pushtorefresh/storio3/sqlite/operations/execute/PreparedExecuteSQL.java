@@ -1,8 +1,8 @@
 package com.pushtorefresh.storio3.sqlite.operations.execute;
 
-import android.support.annotation.CheckResult;
-import android.support.annotation.NonNull;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.CheckResult;
+import androidx.annotation.NonNull;
+import androidx.annotation.WorkerThread;
 
 import com.pushtorefresh.storio3.StorIOException;
 import com.pushtorefresh.storio3.operations.PreparedCompletableOperation;

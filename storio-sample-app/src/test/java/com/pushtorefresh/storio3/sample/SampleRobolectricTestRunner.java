@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sample;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import org.junit.runners.model.InitializationError;
 import org.robolectric.RobolectricTestRunner;

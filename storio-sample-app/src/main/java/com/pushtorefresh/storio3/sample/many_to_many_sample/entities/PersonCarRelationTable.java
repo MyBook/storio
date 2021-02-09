@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sample.many_to_many_sample.entities;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 public class PersonCarRelationTable {
 

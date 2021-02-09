@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sqlite.operations.execute;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.StorIOException;
 import com.pushtorefresh.storio3.sqlite.Changes;

@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.sqlite.operations.delete;
 
-import android.support.annotation.NonNull;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.NonNull;
+import androidx.annotation.WorkerThread;
 
 import com.pushtorefresh.storio3.operations.PreparedCompletableOperation;
 import com.pushtorefresh.storio3.Interceptor;

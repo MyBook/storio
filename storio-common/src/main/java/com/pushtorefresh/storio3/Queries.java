@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Public collection of util methods for Queries.

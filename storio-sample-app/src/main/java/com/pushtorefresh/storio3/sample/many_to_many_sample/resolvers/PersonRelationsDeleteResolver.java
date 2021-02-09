@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sample.many_to_many_sample.resolvers;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sample.many_to_many_sample.entities.Person;
 import com.pushtorefresh.storio3.sample.many_to_many_sample.entities.PersonCarRelationTable;

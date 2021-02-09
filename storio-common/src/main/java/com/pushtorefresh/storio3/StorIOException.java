@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Common {@link RuntimeException} for all errors and exceptions occurred during StorIO operations.

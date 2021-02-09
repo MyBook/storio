@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.sample.many_to_many_sample.resolvers;
 
 import android.database.Cursor;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sample.many_to_many_sample.entities.Car;
 import com.pushtorefresh.storio3.sample.many_to_many_sample.entities.CarStorIOSQLiteGetResolver;

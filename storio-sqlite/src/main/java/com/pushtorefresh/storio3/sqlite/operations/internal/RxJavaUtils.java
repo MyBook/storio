@@ -1,9 +1,9 @@
 package com.pushtorefresh.storio3.sqlite.operations.internal;
 
-import android.support.annotation.CheckResult;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.annotation.VisibleForTesting;
+import androidx.annotation.CheckResult;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.annotation.VisibleForTesting;
 
 import com.pushtorefresh.storio3.Optional;
 import com.pushtorefresh.storio3.operations.PreparedOperation;

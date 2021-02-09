@@ -4,8 +4,8 @@ import android.content.ContentResolver;
 import android.database.ContentObserver;
 import android.net.Uri;
 import android.os.Handler;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.pushtorefresh.storio3.Interceptor;
 import com.pushtorefresh.storio3.TypeMappingFinder;

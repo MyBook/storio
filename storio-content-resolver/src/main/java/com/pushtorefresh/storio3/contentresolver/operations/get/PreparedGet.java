@@ -1,8 +1,8 @@
 package com.pushtorefresh.storio3.contentresolver.operations.get;
 
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.annotation.WorkerThread;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.annotation.WorkerThread;
 
 import com.pushtorefresh.storio3.Interceptor;
 import com.pushtorefresh.storio3.contentresolver.StorIOContentResolver;
