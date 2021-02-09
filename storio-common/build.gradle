@@ -23,7 +23,7 @@ android {
 }
 
 dependencies {
-    api libraries.supportAnnotations
+    api libraries.annotations
 
     compileOnly libraries.rxJava2
     testImplementation libraries.rxJava2

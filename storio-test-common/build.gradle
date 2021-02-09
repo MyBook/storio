@@ -19,7 +19,7 @@ android {
 }
 
 dependencies {
-    compileOnly libraries.supportAnnotations
+    compileOnly libraries.annotations
 
     implementation libraries.junit
     implementation libraries.mockitoCore
@@ -27,7 +27,7 @@ dependencies {
     compileOnly libraries.rxJava2
     testImplementation libraries.rxJava2
 
-    testImplementation libraries.supportAnnotations
+    testImplementation libraries.annotations
     testImplementation libraries.junit
     testImplementation libraries.assertJ
     testImplementation libraries.privateConstructorChecker

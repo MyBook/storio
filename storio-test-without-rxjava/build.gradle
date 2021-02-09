@@ -22,7 +22,7 @@ dependencies {
     implementation libraries.storIOSQLite
     implementation libraries.storIOContentResolver
 
-    compileOnly libraries.supportAnnotations
+    compileOnly libraries.annotations
 
     testImplementation libraries.junit
     testImplementation libraries.assertJ
