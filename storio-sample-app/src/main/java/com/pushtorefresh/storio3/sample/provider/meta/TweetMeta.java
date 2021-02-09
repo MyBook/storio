@@ -3,7 +3,7 @@ package com.pushtorefresh.storio3.sample.provider.meta;
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.net.Uri;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.contentresolver.StorIOContentResolver;
 import com.pushtorefresh.storio3.contentresolver.operations.delete.DefaultDeleteResolver;

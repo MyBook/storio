@@ -2,7 +2,7 @@ package com.pushtorefresh.storio3.sqlite.integration;
 
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sqlite.BuildConfig;
 import com.pushtorefresh.storio3.sqlite.SQLiteTypeMapping;

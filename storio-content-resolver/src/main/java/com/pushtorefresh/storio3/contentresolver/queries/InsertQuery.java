@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.contentresolver.queries;
 
 import android.net.Uri;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import static com.pushtorefresh.storio3.internal.Checks.checkNotEmpty;
 import static com.pushtorefresh.storio3.internal.Checks.checkNotNull;

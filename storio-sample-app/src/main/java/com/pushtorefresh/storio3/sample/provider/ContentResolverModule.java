@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.sample.provider;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.contentresolver.StorIOContentResolver;
 import com.pushtorefresh.storio3.contentresolver.impl.DefaultStorIOContentResolver;

@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sqlite.integration.auto_parcel;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import auto.parcel.AutoParcel;
 

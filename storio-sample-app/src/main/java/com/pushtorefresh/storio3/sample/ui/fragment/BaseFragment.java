@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sample.ui.fragment;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.support.v4.app.Fragment;
 
 import com.pushtorefresh.storio3.sample.SampleApp;

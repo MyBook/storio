@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sqlite.operations.put;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sqlite.StorIOSQLite;
 

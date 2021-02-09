@@ -2,7 +2,7 @@ package com.pushtorefresh.storio3.contentresolver.design;
 
 import android.content.ContentValues;
 import android.net.Uri;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.contentresolver.operations.put.DefaultPutResolver;
 import com.pushtorefresh.storio3.contentresolver.operations.put.PutResolver;

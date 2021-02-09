@@ -8,7 +8,7 @@ android {
         versionCode Integer.parseInt(VERSION_CODE)
         minSdkVersion rootProject.ext.minSdkVersion
 
-        testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
     }
 
     packagingOptions {

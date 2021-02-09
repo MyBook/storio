@@ -3,7 +3,7 @@ package com.pushtorefresh.storio3.sample.db;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sample.db.tables.TweetsTable;
 import com.pushtorefresh.storio3.sample.db.tables.UsersTable;

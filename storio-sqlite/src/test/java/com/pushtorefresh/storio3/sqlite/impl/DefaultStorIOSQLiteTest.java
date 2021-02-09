@@ -3,8 +3,8 @@ package com.pushtorefresh.storio3.sqlite.impl;
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.pushtorefresh.storio3.TypeMappingFinder;
 import com.pushtorefresh.storio3.internal.ChangesBus;

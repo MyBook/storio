@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.internal;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * For internal use only!

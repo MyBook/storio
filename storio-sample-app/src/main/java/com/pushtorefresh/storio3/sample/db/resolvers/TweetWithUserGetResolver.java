@@ -2,7 +2,7 @@ package com.pushtorefresh.storio3.sample.db.resolvers;
 
 
 import android.database.Cursor;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sample.db.entities.Tweet;
 import com.pushtorefresh.storio3.sample.db.entities.TweetWithUser;

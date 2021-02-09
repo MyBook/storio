@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.contentresolver.annotations;
 
 import android.content.ContentValues;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import com.pushtorefresh.storio3.contentresolver.operations.put.DefaultPutResolver;
 import com.pushtorefresh.storio3.contentresolver.queries.InsertQuery;
 import com.pushtorefresh.storio3.contentresolver.queries.UpdateQuery;

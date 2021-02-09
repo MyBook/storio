@@ -1,8 +1,8 @@
 package com.pushtorefresh.storio3.sample.ui;
 
 import android.content.Context;
-import android.support.annotation.Nullable;
-import android.support.annotation.StringRes;
+import androidx.annotation.Nullable;
+import androidx.annotation.StringRes;
 import android.text.TextUtils;
 import android.widget.Toast;
 

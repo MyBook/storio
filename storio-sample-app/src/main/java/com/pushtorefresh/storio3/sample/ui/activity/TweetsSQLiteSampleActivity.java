@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.sample.ui.activity;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.pushtorefresh.storio3.sample.R;
 import com.pushtorefresh.storio3.sample.ui.fragment.TweetsSQLiteFragment;

@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sqlite.operations.put;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 class TestItem {
     static final String TABLE = "test_items";

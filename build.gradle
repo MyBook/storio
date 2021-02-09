@@ -49,7 +49,7 @@ def daggerVersion = '2.18'
 
 ext.libraries = [
         // Core libraries
-        supportAnnotations                       : 'com.android.support:support-annotations:' + supportLibsVersion,
+        annotations                              : 'androidx.annotation:annotation:1.1.0',
 
         rxJava2                                  : 'io.reactivex.rxjava2:rxjava:2.1.6',
         rxAndroid2                               : 'io.reactivex.rxjava2:rxandroid:2.0.1',

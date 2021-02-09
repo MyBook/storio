@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.sample.many_to_many_sample.resolvers;
 
 import android.content.ContentValues;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sqlite.StorIOSQLite;
 import com.pushtorefresh.storio3.sqlite.operations.put.PutResolver;

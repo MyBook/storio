@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sample.db.entities;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Example of entity with another entity linked together!

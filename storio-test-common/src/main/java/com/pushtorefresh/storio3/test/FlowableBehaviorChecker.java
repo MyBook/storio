@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.test;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import io.reactivex.Flowable;
 import io.reactivex.functions.Consumer;

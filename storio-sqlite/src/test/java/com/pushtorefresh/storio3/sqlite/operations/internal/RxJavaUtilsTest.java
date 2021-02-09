@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sqlite.operations.internal;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.private_constructor_checker.PrivateConstructorChecker;
 import com.pushtorefresh.storio3.Optional;

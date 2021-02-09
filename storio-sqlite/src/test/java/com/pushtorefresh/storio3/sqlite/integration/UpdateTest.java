@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.sqlite.integration;
 
 import android.database.Cursor;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sqlite.BuildConfig;
 import com.pushtorefresh.storio3.sqlite.operations.put.PutResult;

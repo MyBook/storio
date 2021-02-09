@@ -1,6 +1,6 @@
 package com.pushtorefresh.storio3.sqlite.annotations;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 @StorIOSQLiteType(table = "table")
 public class WithGeneratedTable {

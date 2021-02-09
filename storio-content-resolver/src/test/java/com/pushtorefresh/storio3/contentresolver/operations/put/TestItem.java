@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.contentresolver.operations.put;
 
 import android.net.Uri;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import static org.mockito.Mockito.mock;
 

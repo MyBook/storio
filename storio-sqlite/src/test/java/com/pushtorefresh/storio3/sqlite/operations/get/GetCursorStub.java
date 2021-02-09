@@ -1,7 +1,7 @@
 package com.pushtorefresh.storio3.sqlite.operations.get;
 
 import android.database.Cursor;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.pushtorefresh.storio3.sqlite.Changes;
 import com.pushtorefresh.storio3.sqlite.StorIOSQLite;
