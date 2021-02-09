@@ -7,7 +7,6 @@ buildscript {
         jcenter()
         google()
         maven { url "https://plugins.gradle.org/m2/" }
-        gradlePluginPortal()
     }
 
     dependencies {
@@ -21,8 +20,6 @@ buildscript {
 //        classpath 'com.squareup.sqldelight:gradle-plugin:1.0.0-rc2'
 
         classpath 'com.github.ben-manes:gradle-versions-plugin:0.17.0'
-
-        classpath "com.github.plnice:canidropjetifier:0.5"
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -128,14 +125,6 @@ project.ext.preDexLibs = !project.hasProperty('disablePreDex')
 
 subprojects {
     apply plugin: 'com.github.ben-manes.versions'
-    apply plugin: "com.github.plnice.canidropjetifier"
-
-    canIDropJetifier {
-        verbose = true // Default: false, set to true to print the dependencies tree down to the old artifact
-        includeModules = true // Default: true, print out not only external (library) dependencies, but also module dependencies that use old artifacts
-        parallelMode = true // Default: false, experimental: run analysis of modules in parallel
-    }
-
 
     project.plugins.whenPluginAdded { plugin ->
         if ('com.android.build.gradle.AppPlugin'.equals(plugin.class.name)
